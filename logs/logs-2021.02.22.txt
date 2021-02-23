@@ -1,0 +1,1317 @@
+2021-02-22 20:34:57.216 INFO  Iniciado 
+2021-02-22 20:34:58.652 INFO  --------- 
+2021-02-22 20:34:58.654 INFO  Entrando na Funcao: Acc_Login 
+2021-02-22 20:35:11.270 INFO  Iniciado 
+2021-02-22 20:35:12.648 INFO  --------- 
+2021-02-22 20:35:12.653 INFO  Entrando na Funcao: Acc_Login 
+2021-02-22 20:35:26.185 INFO  Falha em Logar, Direcionado para: https://amie-shoes.xtechcommerce.com/admin/dashboard 
+2021-02-22 20:35:46.187 INFO  Iniciado 
+2021-02-22 20:35:47.639 INFO  --------- 
+2021-02-22 20:35:47.642 INFO  Entrando na Funcao: Acc_Login 
+2021-02-22 20:36:01.921 INFO  Sucesso em Logar 
+2021-02-22 20:36:01.924 INFO  -- 
+2021-02-22 20:36:01.926 INFO  Entrando na Funcao: Acc_Produtos 
+2021-02-22 21:15:36.598 INFO  Iniciado 
+2021-02-22 21:15:40.469 INFO  --------- 
+2021-02-22 21:15:40.475 INFO  Entrando na Funcao: Acc_Login 
+2021-02-22 21:15:50.993 INFO  Sucesso em Logar 
+2021-02-22 21:15:50.999 INFO  -- 
+2021-02-22 21:15:51.003 INFO  Entrando na Funcao: Acc_Produtos 
+2021-02-22 21:15:54.428 INFO  Pagina: 1 de 11 
+2021-02-22 21:15:54.481 INFO  Pagina: 2 de 11 
+2021-02-22 21:15:54.482 INFO  Index: 25 
+2021-02-22 21:15:56.368 INFO  Pagina: 3 de 11 
+2021-02-22 21:15:56.370 INFO  Index: 50 
+2021-02-22 21:15:58.888 INFO  Pagina: 4 de 11 
+2021-02-22 21:15:58.891 INFO  Index: 75 
+2021-02-22 21:16:00.081 INFO  Pagina: 5 de 11 
+2021-02-22 21:16:00.084 INFO  Index: 100 
+2021-02-22 21:16:01.851 INFO  Pagina: 6 de 11 
+2021-02-22 21:16:01.854 INFO  Index: 125 
+2021-02-22 21:16:03.962 INFO  Pagina: 7 de 11 
+2021-02-22 21:16:03.966 INFO  Index: 150 
+2021-02-22 21:16:06.457 INFO  Pagina: 8 de 11 
+2021-02-22 21:16:06.458 INFO  Index: 175 
+2021-02-22 21:16:23.816 INFO  Iniciado 
+2021-02-22 21:16:24.730 INFO  --------- 
+2021-02-22 21:16:24.732 INFO  Entrando na Funcao: Acc_Login 
+2021-02-22 21:16:45.160 INFO  Sucesso em Logar 
+2021-02-22 21:16:45.184 INFO  -- 
+2021-02-22 21:16:45.215 INFO  Entrando na Funcao: Acc_Produtos 
+2021-02-22 21:16:46.501 INFO  Pagina: 1 de 11 
+2021-02-22 21:16:46.518 INFO  Pagina: 2 de 11 
+2021-02-22 21:16:46.519 INFO  Index: 25 
+2021-02-22 21:16:48.062 INFO  Pagina: 3 de 11 
+2021-02-22 21:16:48.064 INFO  Index: 50 
+2021-02-22 21:16:54.228 INFO  Pagina: 4 de 11 
+2021-02-22 21:16:54.232 INFO  Index: 75 
+2021-02-22 21:16:55.825 INFO  Pagina: 5 de 11 
+2021-02-22 21:16:55.829 INFO  Index: 100 
+2021-02-22 21:16:57.417 INFO  Pagina: 6 de 11 
+2021-02-22 21:16:57.420 INFO  Index: 125 
+2021-02-22 21:16:58.793 INFO  Pagina: 7 de 11 
+2021-02-22 21:16:58.794 INFO  Index: 150 
+2021-02-22 21:17:00.638 INFO  Pagina: 8 de 11 
+2021-02-22 21:17:00.640 INFO  Index: 175 
+2021-02-22 21:17:01.483 INFO  Pagina: 9 de 11 
+2021-02-22 21:17:01.487 INFO  Index: 200 
+2021-02-22 21:17:07.641 INFO  Pagina: 10 de 11 
+2021-02-22 21:17:07.643 INFO  Index: 225 
+2021-02-22 21:17:09.063 INFO  Pagina: 11 de 11 
+2021-02-22 21:17:09.066 INFO  Index: 250 
+2021-02-22 21:17:31.999 INFO  Iniciado 
+2021-02-22 21:17:33.017 INFO  --------- 
+2021-02-22 21:17:33.021 INFO  Entrando na Funcao: Acc_Login 
+2021-02-22 21:17:45.730 INFO  Sucesso em Logar 
+2021-02-22 21:17:45.734 INFO  -- 
+2021-02-22 21:17:45.737 INFO  Entrando na Funcao: Acc_Produtos 
+2021-02-22 21:17:47.549 INFO  Pagina: 1 de 1 
+2021-02-22 21:17:47.686 INFO  -- 
+2021-02-22 21:17:47.689 INFO  Entrando na Funcao: Acc_ProdutosDetalhes 
+2021-02-22 21:17:47.694 INFO  Obtendo Detalhes de Unidade 
+2021-02-22 21:17:47.695 INFO  CodigoProduto: 6104391 
+2021-02-22 21:18:53.363 INFO  Iniciado 
+2021-02-22 21:18:54.410 INFO  --------- 
+2021-02-22 21:18:54.414 INFO  Entrando na Funcao: Acc_Login 
+2021-02-22 21:19:07.955 INFO  Sucesso em Logar 
+2021-02-22 21:19:07.956 INFO  -- 
+2021-02-22 21:19:07.959 INFO  Entrando na Funcao: Acc_Produtos 
+2021-02-22 21:19:10.081 INFO  Pagina: 1 de 1 
+2021-02-22 21:19:10.111 INFO  -- 
+2021-02-22 21:19:10.113 INFO  Entrando na Funcao: Acc_ProdutosDetalhes 
+2021-02-22 21:19:10.118 INFO  Obtendo Detalhes de Unidade 
+2021-02-22 21:19:10.122 INFO  CodigoProduto: 6104391 
+2021-02-22 21:21:50.199 INFO  Iniciado 
+2021-02-22 21:21:51.754 INFO  --------- 
+2021-02-22 21:21:51.758 INFO  Entrando na Funcao: Acc_Login 
+2021-02-22 21:22:15.134 INFO  Sucesso em Logar 
+2021-02-22 21:22:15.148 INFO  -- 
+2021-02-22 21:22:15.154 INFO  Entrando na Funcao: Acc_Produtos 
+2021-02-22 21:22:19.131 INFO  Pagina: 1 de 1 
+2021-02-22 21:22:19.139 INFO  -- 
+2021-02-22 21:22:19.140 INFO  Entrando na Funcao: Acc_ProdutosDetalhes 
+2021-02-22 21:22:19.148 INFO  Obtendo Detalhes de Unidade 
+2021-02-22 21:22:19.151 INFO  CodigoProduto: 6104391 
+2021-02-22 21:25:19.516 INFO  Iniciado 
+2021-02-22 21:25:21.102 INFO  --------- 
+2021-02-22 21:25:21.105 INFO  Entrando na Funcao: Acc_Login 
+2021-02-22 21:25:34.829 INFO  Sucesso em Logar 
+2021-02-22 21:25:34.833 INFO  -- 
+2021-02-22 21:25:34.835 INFO  Entrando na Funcao: Acc_Categorias 
+2021-02-22 21:25:37.852 INFO  Pagina: 1 de 1 
+2021-02-22 21:25:38.127 INFO  Falha na Funcao: Acc_Categorias 
+2021-02-22 21:25:38.136 INFO  ListCategorias is not defined
+{}
+ReferenceError: ListCategorias is not defined
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:157:17
+    at Array.map (<anonymous>)
+    at Acc_Categorias (G:\GitHub\Crawler_Xtechcommerce\lib\index.js:155:37)
+    at process._tickCallback (internal/process/next_tick.js:68:7) 
+2021-02-22 21:34:03.698 INFO  Iniciado 
+2021-02-22 21:34:05.241 INFO  --------- 
+2021-02-22 21:34:05.242 INFO  Entrando na Funcao: Acc_Login 
+2021-02-22 21:34:18.172 INFO  Sucesso em Logar 
+2021-02-22 21:34:18.178 INFO  -- 
+2021-02-22 21:34:18.180 INFO  Entrando na Funcao: Acc_Produtos 
+2021-02-22 21:34:21.255 INFO  Pagina: 1 de 1 
+2021-02-22 21:34:21.323 INFO  -- 
+2021-02-22 21:34:21.326 INFO  Entrando na Funcao: Acc_ProdutosDetalhes 
+2021-02-22 21:34:21.375 INFO  Obtendo Detalhes de Unidade 
+2021-02-22 21:34:21.386 INFO  CodigoProduto: 6104391 
+2021-02-22 21:36:10.225 INFO  Iniciado 
+2021-02-22 21:36:11.529 INFO  --------- 
+2021-02-22 21:36:11.533 INFO  Entrando na Funcao: Acc_Login 
+2021-02-22 21:36:25.162 INFO  Sucesso em Logar 
+2021-02-22 21:36:25.167 INFO  -- 
+2021-02-22 21:36:25.172 INFO  Entrando na Funcao: Acc_Produtos 
+2021-02-22 21:36:27.598 INFO  Pagina: 1 de 1 
+2021-02-22 21:36:27.636 INFO  -- 
+2021-02-22 21:36:27.664 INFO  Entrando na Funcao: Acc_ProdutosDetalhes 
+2021-02-22 21:36:27.668 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 21:36:27.673 INFO  CodigoProduto: 6104391 
+2021-02-22 21:36:49.956 INFO  -- 
+2021-02-22 21:36:49.957 INFO  Entrando na Funcao: Acc_ProdutosFotos 
+2021-02-22 21:36:49.963 INFO  Obtendo Fotos dos Produtos 
+2021-02-22 21:36:49.966 INFO  CodigoProduto: 6104391 
+2021-02-22 21:37:31.141 INFO  Iniciado 
+2021-02-22 21:37:32.159 INFO  --------- 
+2021-02-22 21:37:32.162 INFO  Entrando na Funcao: Acc_Login 
+2021-02-22 21:37:40.608 INFO  Falha em Logar, Direcionado para: https://amie-shoes.xtechcommerce.com/admin/login 
+2021-02-22 21:37:40.616 INFO  -- 
+2021-02-22 21:37:40.618 INFO  Entrando na Funcao: Acc_Produtos 
+2021-02-22 21:37:42.131 INFO  Pagina: 1 de 1 
+2021-02-22 21:37:42.151 INFO  -- 
+2021-02-22 21:37:42.156 INFO  Entrando na Funcao: Acc_ProdutosDetalhes 
+2021-02-22 21:37:42.160 INFO  -- 
+2021-02-22 21:37:42.168 INFO  Entrando na Funcao: Acc_ProdutosFotos 
+2021-02-22 21:37:57.314 INFO  Iniciado 
+2021-02-22 21:37:58.544 INFO  --------- 
+2021-02-22 21:37:58.549 INFO  Entrando na Funcao: Acc_Login 
+2021-02-22 21:38:17.195 INFO  Sucesso em Logar 
+2021-02-22 21:38:17.204 INFO  -- 
+2021-02-22 21:38:17.205 INFO  Entrando na Funcao: Acc_Produtos 
+2021-02-22 21:38:18.821 INFO  Pagina: 1 de 1 
+2021-02-22 21:38:18.909 INFO  -- 
+2021-02-22 21:38:18.912 INFO  Entrando na Funcao: Acc_ProdutosDetalhes 
+2021-02-22 21:38:18.918 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 21:38:18.920 INFO  CodigoProduto: 6104391 
+2021-02-22 21:38:22.773 INFO  -- 
+2021-02-22 21:38:22.779 INFO  Entrando na Funcao: Acc_ProdutosFotos 
+2021-02-22 21:38:22.780 INFO  Obtendo Fotos dos Produtos 
+2021-02-22 21:38:22.783 INFO  CodigoProduto: 6104391 
+2021-02-22 21:38:48.377 INFO  Iniciado 
+2021-02-22 21:38:49.658 INFO  --------- 
+2021-02-22 21:38:49.662 INFO  Entrando na Funcao: Acc_Login 
+2021-02-22 21:39:02.948 INFO  Sucesso em Logar 
+2021-02-22 21:39:02.950 INFO  -- 
+2021-02-22 21:39:02.954 INFO  Entrando na Funcao: Acc_Produtos 
+2021-02-22 21:39:04.878 INFO  Pagina: 1 de 1 
+2021-02-22 21:39:04.937 INFO  -- 
+2021-02-22 21:39:04.940 INFO  Entrando na Funcao: Acc_ProdutosDetalhes 
+2021-02-22 21:39:04.945 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 21:39:04.946 INFO  CodigoProduto: 6104391 
+2021-02-22 21:39:08.180 INFO  -- 
+2021-02-22 21:39:08.187 INFO  Entrando na Funcao: Acc_ProdutosFotos 
+2021-02-22 21:39:08.188 INFO  Obtendo Fotos dos Produtos 
+2021-02-22 21:39:08.189 INFO  CodigoProduto: 6104391 
+2021-02-22 21:41:29.086 INFO  Iniciado 
+2021-02-22 21:41:30.088 INFO  --------- 
+2021-02-22 21:41:30.089 INFO  Entrando na Funcao: Acc_Login 
+2021-02-22 21:41:43.779 INFO  Sucesso em Logar 
+2021-02-22 21:41:43.782 INFO  -- 
+2021-02-22 21:41:43.784 INFO  Entrando na Funcao: Acc_Produtos 
+2021-02-22 21:41:45.844 INFO  Pagina: 1 de 1 
+2021-02-22 21:41:45.869 INFO  -- 
+2021-02-22 21:41:45.872 INFO  Entrando na Funcao: Acc_ProdutosDetalhes 
+2021-02-22 21:41:45.878 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 21:41:45.879 INFO  CodigoProduto: 6104391 
+2021-02-22 21:41:48.678 INFO  -- 
+2021-02-22 21:41:48.680 INFO  Entrando na Funcao: Acc_ProdutosFotos 
+2021-02-22 21:41:48.683 INFO  Obtendo Fotos dos Produtos 
+2021-02-22 21:41:48.685 INFO  CodigoProduto: 6104391 
+2021-02-22 21:42:47.474 INFO  Iniciado 
+2021-02-22 21:42:48.647 INFO  --------- 
+2021-02-22 21:42:48.651 INFO  Entrando na Funcao: Acc_Login 
+2021-02-22 21:43:07.784 INFO  Sucesso em Logar 
+2021-02-22 21:43:07.788 INFO  -- 
+2021-02-22 21:43:07.798 INFO  Entrando na Funcao: Acc_Produtos 
+2021-02-22 21:43:09.353 INFO  Pagina: 1 de 1 
+2021-02-22 21:43:09.386 INFO  -- 
+2021-02-22 21:43:09.393 INFO  Entrando na Funcao: Acc_ProdutosDetalhes 
+2021-02-22 21:43:09.398 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 21:43:09.400 INFO  CodigoProduto: 6104391 
+2021-02-22 21:43:12.823 INFO  -- 
+2021-02-22 21:43:12.825 INFO  Entrando na Funcao: Acc_ProdutosFotos 
+2021-02-22 21:43:12.826 INFO  Obtendo Fotos dos Produtos 
+2021-02-22 21:43:12.831 INFO  CodigoProduto: 6104391 
+2021-02-22 21:43:46.920 INFO  Iniciado 
+2021-02-22 21:43:47.869 INFO  --------- 
+2021-02-22 21:43:47.873 INFO  Entrando na Funcao: Acc_Login 
+2021-02-22 21:44:05.217 INFO  Sucesso em Logar 
+2021-02-22 21:44:05.221 INFO  -- 
+2021-02-22 21:44:05.223 INFO  Entrando na Funcao: Acc_Produtos 
+2021-02-22 21:44:06.923 INFO  Pagina: 1 de 1 
+2021-02-22 21:44:06.944 INFO  -- 
+2021-02-22 21:44:06.946 INFO  Entrando na Funcao: Acc_ProdutosDetalhes 
+2021-02-22 21:44:06.958 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 21:44:06.959 INFO  CodigoProduto: 6104391 
+2021-02-22 21:44:10.047 INFO  -- 
+2021-02-22 21:44:10.052 INFO  Entrando na Funcao: Acc_ProdutosFotos 
+2021-02-22 21:44:10.056 INFO  Obtendo Fotos dos Produtos 
+2021-02-22 21:44:10.057 INFO  CodigoProduto: 6104391 
+2021-02-22 21:46:30.398 INFO  Iniciado 
+2021-02-22 21:46:31.504 INFO  --------- 
+2021-02-22 21:46:31.508 INFO  Entrando na Funcao: Acc_Login 
+2021-02-22 21:46:52.876 INFO  Sucesso em Logar 
+2021-02-22 21:46:52.883 INFO  -- 
+2021-02-22 21:46:52.887 INFO  Entrando na Funcao: Acc_Produtos 
+2021-02-22 21:46:54.710 INFO  Pagina: 1 de 1 
+2021-02-22 21:46:54.736 INFO  -- 
+2021-02-22 21:46:54.741 INFO  Entrando na Funcao: Acc_ProdutosDetalhes 
+2021-02-22 21:46:54.747 INFO  Falha no Each: 6089860 
+2021-02-22 21:46:54.757 INFO  Cannot convert undefined or null to object
+{}
+TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:447:24
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:148:38
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:2154:44
+    at replenish (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:440:21)
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:445:13
+    at eachLimit$1 (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:2243:34)
+    at awaitable (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:208:32)
+    at Object.eachSeries (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:2271:16)
+    at Promise (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:216:25) 
+2021-02-22 21:46:54.761 INFO  Falha no Each: 6091281 
+2021-02-22 21:46:54.767 INFO  Cannot convert undefined or null to object
+{}
+TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:447:24
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:148:38
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:2154:44
+    at replenish (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:440:21)
+    at iterateeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:424:21)
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:321:20
+    at invokeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:179:13)
+    at promise.then.value (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:171:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7) 
+2021-02-22 21:46:54.773 INFO  Falha no Each: 6091286 
+2021-02-22 21:46:54.776 INFO  Cannot convert undefined or null to object
+{}
+TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:447:24
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:148:38
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:2154:44
+    at replenish (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:440:21)
+    at iterateeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:424:21)
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:321:20
+    at invokeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:179:13)
+    at promise.then.value (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:171:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7) 
+2021-02-22 21:46:54.777 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 21:46:54.778 INFO  CodigoProduto: 6104391 
+2021-02-22 21:46:57.632 INFO  Falha no Each: 6104391 
+2021-02-22 21:46:57.639 INFO  CHash2 is not defined
+{}
+ReferenceError: CHash2 is not defined
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:449:39
+    at Array.map (<anonymous>)
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:447:61
+    at process._tickCallback (internal/process/next_tick.js:68:7) 
+2021-02-22 21:46:57.642 INFO  Falha no Each: 6104392 
+2021-02-22 21:46:57.648 INFO  Cannot convert undefined or null to object
+{}
+TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:447:24
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:148:38
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:2154:44
+    at replenish (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:440:21)
+    at iterateeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:424:21)
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:321:20
+    at invokeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:179:13)
+    at promise.then.value (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:171:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7) 
+2021-02-22 21:46:57.655 INFO  Falha no Each: 6107635 
+2021-02-22 21:46:57.658 INFO  Cannot convert undefined or null to object
+{}
+TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:447:24
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:148:38
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:2154:44
+    at replenish (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:440:21)
+    at iterateeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:424:21)
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:321:20
+    at invokeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:179:13)
+    at promise.then.value (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:171:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7) 
+2021-02-22 21:46:57.663 INFO  Falha no Each: 6107636 
+2021-02-22 21:46:57.673 INFO  Cannot convert undefined or null to object
+{}
+TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:447:24
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:148:38
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:2154:44
+    at replenish (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:440:21)
+    at iterateeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:424:21)
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:321:20
+    at invokeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:179:13)
+    at promise.then.value (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:171:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7) 
+2021-02-22 21:46:57.678 INFO  Falha no Each: 6107638 
+2021-02-22 21:46:57.680 INFO  Cannot convert undefined or null to object
+{}
+TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:447:24
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:148:38
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:2154:44
+    at replenish (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:440:21)
+    at iterateeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:424:21)
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:321:20
+    at invokeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:179:13)
+    at promise.then.value (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:171:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7) 
+2021-02-22 21:46:57.683 INFO  Falha no Each: 6109755 
+2021-02-22 21:46:57.740 INFO  Cannot convert undefined or null to object
+{}
+TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:447:24
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:148:38
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:2154:44
+    at replenish (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:440:21)
+    at iterateeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:424:21)
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:321:20
+    at invokeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:179:13)
+    at promise.then.value (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:171:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7) 
+2021-02-22 21:46:57.744 INFO  Falha no Each: 6115073 
+2021-02-22 21:46:57.745 INFO  Cannot convert undefined or null to object
+{}
+TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:447:24
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:148:38
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:2154:44
+    at replenish (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:440:21)
+    at iterateeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:424:21)
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:321:20
+    at invokeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:179:13)
+    at promise.then.value (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:171:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7) 
+2021-02-22 21:46:57.746 INFO  Falha no Each: 6125160 
+2021-02-22 21:46:57.747 INFO  Cannot convert undefined or null to object
+{}
+TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:447:24
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:148:38
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:2154:44
+    at replenish (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:440:21)
+    at iterateeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:424:21)
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:321:20
+    at invokeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:179:13)
+    at promise.then.value (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:171:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7) 
+2021-02-22 21:46:57.748 INFO  Falha no Each: 6129491 
+2021-02-22 21:46:57.750 INFO  Cannot convert undefined or null to object
+{}
+TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:447:24
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:148:38
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:2154:44
+    at replenish (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:440:21)
+    at iterateeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:424:21)
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:321:20
+    at invokeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:179:13)
+    at promise.then.value (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:171:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7) 
+2021-02-22 21:46:57.751 INFO  Falha no Each: 6129518 
+2021-02-22 21:46:57.754 INFO  Cannot convert undefined or null to object
+{}
+TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:447:24
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:148:38
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:2154:44
+    at replenish (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:440:21)
+    at iterateeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:424:21)
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:321:20
+    at invokeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:179:13)
+    at promise.then.value (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:171:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7) 
+2021-02-22 21:46:57.759 INFO  Falha no Each: 6131816 
+2021-02-22 21:46:57.761 INFO  Cannot convert undefined or null to object
+{}
+TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:447:24
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:148:38
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:2154:44
+    at replenish (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:440:21)
+    at iterateeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:424:21)
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:321:20
+    at invokeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:179:13)
+    at promise.then.value (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:171:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7) 
+2021-02-22 21:46:57.762 INFO  Falha no Each: 6131818 
+2021-02-22 21:46:57.765 INFO  Cannot convert undefined or null to object
+{}
+TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:447:24
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:148:38
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:2154:44
+    at replenish (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:440:21)
+    at iterateeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:424:21)
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:321:20
+    at invokeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:179:13)
+    at promise.then.value (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:171:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7) 
+2021-02-22 21:46:57.766 INFO  Falha no Each: 6131820 
+2021-02-22 21:46:57.768 INFO  Cannot convert undefined or null to object
+{}
+TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:447:24
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:148:38
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:2154:44
+    at replenish (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:440:21)
+    at iterateeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:424:21)
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:321:20
+    at invokeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:179:13)
+    at promise.then.value (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:171:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7) 
+2021-02-22 21:46:57.780 INFO  Falha no Each: 6131822 
+2021-02-22 21:46:57.782 INFO  Cannot convert undefined or null to object
+{}
+TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:447:24
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:148:38
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:2154:44
+    at replenish (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:440:21)
+    at iterateeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:424:21)
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:321:20
+    at invokeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:179:13)
+    at promise.then.value (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:171:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7) 
+2021-02-22 21:46:57.789 INFO  Falha no Each: 6131830 
+2021-02-22 21:46:57.792 INFO  Cannot convert undefined or null to object
+{}
+TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:447:24
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:148:38
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:2154:44
+    at replenish (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:440:21)
+    at iterateeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:424:21)
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:321:20
+    at invokeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:179:13)
+    at promise.then.value (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:171:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7) 
+2021-02-22 21:46:57.793 INFO  Falha no Each: 6131834 
+2021-02-22 21:46:57.794 INFO  Cannot convert undefined or null to object
+{}
+TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:447:24
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:148:38
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:2154:44
+    at replenish (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:440:21)
+    at iterateeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:424:21)
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:321:20
+    at invokeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:179:13)
+    at promise.then.value (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:171:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7) 
+2021-02-22 21:46:57.795 INFO  Falha no Each: 6131842 
+2021-02-22 21:46:57.796 INFO  Cannot convert undefined or null to object
+{}
+TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:447:24
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:148:38
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:2154:44
+    at replenish (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:440:21)
+    at iterateeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:424:21)
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:321:20
+    at invokeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:179:13)
+    at promise.then.value (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:171:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7) 
+2021-02-22 21:46:57.797 INFO  Falha no Each: 6131857 
+2021-02-22 21:46:57.800 INFO  Cannot convert undefined or null to object
+{}
+TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:447:24
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:148:38
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:2154:44
+    at replenish (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:440:21)
+    at iterateeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:424:21)
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:321:20
+    at invokeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:179:13)
+    at promise.then.value (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:171:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7) 
+2021-02-22 21:46:57.808 INFO  Falha no Each: 6131862 
+2021-02-22 21:46:57.811 INFO  Cannot convert undefined or null to object
+{}
+TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:447:24
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:148:38
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:2154:44
+    at replenish (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:440:21)
+    at iterateeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:424:21)
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:321:20
+    at invokeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:179:13)
+    at promise.then.value (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:171:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7) 
+2021-02-22 21:46:57.814 INFO  Falha no Each: 6131863 
+2021-02-22 21:46:57.824 INFO  Cannot convert undefined or null to object
+{}
+TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:447:24
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:148:38
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:2154:44
+    at replenish (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:440:21)
+    at iterateeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:424:21)
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:321:20
+    at invokeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:179:13)
+    at promise.then.value (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:171:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7) 
+2021-02-22 21:46:57.825 INFO  Falha no Each: 6144566 
+2021-02-22 21:46:57.827 INFO  Cannot convert undefined or null to object
+{}
+TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:447:24
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:148:38
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:2154:44
+    at replenish (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:440:21)
+    at iterateeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:424:21)
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:321:20
+    at invokeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:179:13)
+    at promise.then.value (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:171:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7) 
+2021-02-22 21:46:57.828 INFO  Falha no Each: 6144567 
+2021-02-22 21:46:57.829 INFO  Cannot convert undefined or null to object
+{}
+TypeError: Cannot convert undefined or null to object
+    at Function.keys (<anonymous>)
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:447:24
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:148:38
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:2154:44
+    at replenish (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:440:21)
+    at iterateeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:424:21)
+    at G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:321:20
+    at invokeCallback (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:179:13)
+    at promise.then.value (G:\GitHub\Crawler_Xtechcommerce\node_modules\async\dist\async.js:171:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7) 
+2021-02-22 21:48:21.183 INFO  Iniciado 
+2021-02-22 21:48:22.279 INFO  --------- 
+2021-02-22 21:48:22.283 INFO  Entrando na Funcao: Acc_Login 
+2021-02-22 21:48:35.914 INFO  Sucesso em Logar 
+2021-02-22 21:48:35.918 INFO  -- 
+2021-02-22 21:48:35.920 INFO  Entrando na Funcao: Acc_Produtos 
+2021-02-22 21:48:37.862 INFO  Pagina: 1 de 1 
+2021-02-22 21:48:37.909 INFO  -- 
+2021-02-22 21:48:37.929 INFO  Entrando na Funcao: Acc_ProdutosDetalhes 
+2021-02-22 21:48:37.935 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 21:48:37.939 INFO  CodigoProduto: 6104391 
+2021-02-22 21:48:40.649 INFO  Falha no Each: 6104391 
+2021-02-22 21:48:40.656 INFO  CHash2 is not defined
+{}
+ReferenceError: CHash2 is not defined
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:448:43
+    at Array.map (<anonymous>)
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:446:65
+    at process._tickCallback (internal/process/next_tick.js:68:7) 
+2021-02-22 21:48:54.794 INFO  Iniciado 
+2021-02-22 21:48:55.930 INFO  --------- 
+2021-02-22 21:48:55.932 INFO  Entrando na Funcao: Acc_Login 
+2021-02-22 21:49:08.212 INFO  Sucesso em Logar 
+2021-02-22 21:49:08.219 INFO  -- 
+2021-02-22 21:49:08.220 INFO  Entrando na Funcao: Acc_Produtos 
+2021-02-22 21:49:10.868 INFO  Pagina: 1 de 1 
+2021-02-22 21:49:10.982 INFO  -- 
+2021-02-22 21:49:10.994 INFO  Entrando na Funcao: Acc_ProdutosDetalhes 
+2021-02-22 21:49:11.028 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 21:49:11.050 INFO  CodigoProduto: 6104391 
+2021-02-22 21:50:21.863 INFO  Iniciado 
+2021-02-22 21:50:23.262 INFO  --------- 
+2021-02-22 21:50:23.264 INFO  Entrando na Funcao: Acc_Login 
+2021-02-22 21:50:36.581 INFO  Sucesso em Logar 
+2021-02-22 21:50:36.584 INFO  -- 
+2021-02-22 21:50:36.585 INFO  Entrando na Funcao: Acc_Produtos 
+2021-02-22 21:50:41.382 INFO  Pagina: 1 de 1 
+2021-02-22 21:50:41.502 INFO  -- 
+2021-02-22 21:50:41.506 INFO  Entrando na Funcao: Acc_ProdutosDetalhes 
+2021-02-22 21:50:41.510 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 21:50:41.511 INFO  CodigoProduto: 6104391 
+2021-02-22 21:50:50.605 INFO  -- 
+2021-02-22 21:50:50.606 INFO  Entrando na Funcao: Acc_ProdutosFotos 
+2021-02-22 21:50:50.610 INFO  Obtendo Fotos dos Produtos 
+2021-02-22 21:50:50.638 INFO  CodigoProduto: 6104391 
+2021-02-22 21:52:48.394 INFO  Iniciado 
+2021-02-22 21:52:49.416 INFO  --------- 
+2021-02-22 21:52:49.419 INFO  Entrando na Funcao: Acc_Login 
+2021-02-22 21:53:02.049 INFO  Sucesso em Logar 
+2021-02-22 21:53:02.054 INFO  -- 
+2021-02-22 21:53:02.055 INFO  Entrando na Funcao: Acc_Produtos 
+2021-02-22 21:53:05.080 INFO  Pagina: 1 de 1 
+2021-02-22 21:53:05.088 INFO  -- 
+2021-02-22 21:53:05.090 INFO  Entrando na Funcao: Acc_ProdutosDetalhes 
+2021-02-22 21:53:05.094 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 21:53:05.095 INFO  CodigoProduto: 6104391 
+2021-02-22 21:53:07.965 INFO  -- 
+2021-02-22 21:53:07.966 INFO  Entrando na Funcao: Acc_ProdutosFotos 
+2021-02-22 21:53:07.970 INFO  Obtendo Fotos dos Produtos 
+2021-02-22 21:53:07.971 INFO  CodigoProduto: 6104391 
+2021-02-22 21:53:07.974 INFO  Arquivo Final: G:\GitHub\Crawler_Xtechcommerce\lib/../tmp/6104391/2ab5fb73ab2c6e5a7ab853c7f3d85c71.jpeg 
+2021-02-22 21:53:07.980 INFO  Iniciado Download do Arquivo 
+2021-02-22 21:53:08.086 INFO  Falha no Each: 2ab5fb73ab2c6e5a7ab853c7f3d85c71.jpeg 
+2021-02-22 21:53:08.091 INFO  Evaluation failed: TypeError: Failed to fetch
+{}
+Error: Evaluation failed: TypeError: Failed to fetch
+    at ExecutionContext._evaluateInternal (G:\GitHub\Crawler_Xtechcommerce\node_modules\puppeteer\lib\cjs\puppeteer\common\ExecutionContext.js:218:19)
+    at process._tickCallback (internal/process/next_tick.js:68:7) 
+2021-02-22 21:55:04.969 INFO  Iniciado 
+2021-02-22 21:55:06.148 INFO  --------- 
+2021-02-22 21:55:06.153 INFO  Entrando na Funcao: Acc_Login 
+2021-02-22 21:55:19.662 INFO  Sucesso em Logar 
+2021-02-22 21:55:19.666 INFO  -- 
+2021-02-22 21:55:19.668 INFO  Entrando na Funcao: Acc_Produtos 
+2021-02-22 21:55:22.919 INFO  Pagina: 1 de 1 
+2021-02-22 21:55:22.944 INFO  -- 
+2021-02-22 21:55:22.945 INFO  Entrando na Funcao: Acc_ProdutosDetalhes 
+2021-02-22 21:55:22.949 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 21:55:22.951 INFO  CodigoProduto: 6104391 
+2021-02-22 21:55:26.051 INFO  -- 
+2021-02-22 21:55:26.158 INFO  Entrando na Funcao: Acc_ProdutosFotos 
+2021-02-22 21:55:26.166 INFO  Obtendo Fotos dos Produtos 
+2021-02-22 21:55:26.169 INFO  CodigoProduto: 6104391 
+2021-02-22 21:55:26.170 INFO  Arquivo Final: G:\GitHub\Crawler_Xtechcommerce\lib/../tmp/6104391/2ab5fb73ab2c6e5a7ab853c7f3d85c71.jpeg 
+2021-02-22 21:55:26.202 INFO  Iniciado Download do Arquivo 
+2021-02-22 21:55:26.470 INFO  Falha no Each: 2ab5fb73ab2c6e5a7ab853c7f3d85c71.jpeg 
+2021-02-22 21:55:26.476 INFO  Evaluation failed: TypeError: Failed to fetch
+{}
+Error: Evaluation failed: TypeError: Failed to fetch
+    at ExecutionContext._evaluateInternal (G:\GitHub\Crawler_Xtechcommerce\node_modules\puppeteer\lib\cjs\puppeteer\common\ExecutionContext.js:218:19)
+    at process._tickCallback (internal/process/next_tick.js:68:7) 
+2021-02-22 21:55:26.493 INFO  -- 
+2021-02-22 21:55:26.494 INFO  Entrando na Funcao: Acc_SalvarDados 
+2021-02-22 21:55:26.497 INFO  -- 
+2021-02-22 21:55:26.499 INFO  Entrando na Funcao: Acc_SalvarDados 
+2021-02-22 21:55:26.500 INFO  -- 
+2021-02-22 21:55:26.503 INFO  Entrando na Funcao: Acc_SalvarDados 
+2021-02-22 21:56:39.679 INFO  Iniciado 
+2021-02-22 21:56:40.806 INFO  --------- 
+2021-02-22 21:56:40.807 INFO  Entrando na Funcao: Acc_Login 
+2021-02-22 21:56:54.480 INFO  Sucesso em Logar 
+2021-02-22 21:56:54.482 INFO  -- 
+2021-02-22 21:56:54.492 INFO  Entrando na Funcao: Acc_Produtos 
+2021-02-22 21:56:56.780 INFO  Pagina: 1 de 1 
+2021-02-22 21:56:56.902 INFO  -- 
+2021-02-22 21:56:56.906 INFO  Entrando na Funcao: Acc_ProdutosDetalhes 
+2021-02-22 21:56:56.914 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 21:56:56.917 INFO  CodigoProduto: 6104391 
+2021-02-22 21:56:59.842 INFO  -- 
+2021-02-22 21:56:59.844 INFO  Entrando na Funcao: Acc_ProdutosFotos 
+2021-02-22 21:56:59.845 INFO  Obtendo Fotos dos Produtos 
+2021-02-22 21:56:59.847 INFO  CodigoProduto: 6104391 
+2021-02-22 21:56:59.848 INFO  Arquivo Final: G:\GitHub\Crawler_Xtechcommerce\lib/../tmp/6104391/2ab5fb73ab2c6e5a7ab853c7f3d85c71.jpeg 
+2021-02-22 21:56:59.852 INFO  Iniciado Download do Arquivo 
+2021-02-22 21:56:59.864 INFO  Falha no Each: 2ab5fb73ab2c6e5a7ab853c7f3d85c71.jpeg 
+2021-02-22 21:56:59.877 INFO  fetch is not defined
+{}
+ReferenceError: fetch is not defined
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:541:40 
+2021-02-22 21:56:59.902 INFO  -- 
+2021-02-22 21:56:59.907 INFO  Entrando na Funcao: Acc_SalvarDados 
+2021-02-22 21:56:59.910 INFO  -- 
+2021-02-22 21:56:59.915 INFO  Entrando na Funcao: Acc_SalvarDados 
+2021-02-22 21:56:59.919 INFO  -- 
+2021-02-22 21:56:59.921 INFO  Entrando na Funcao: Acc_SalvarDados 
+2021-02-22 21:57:59.285 INFO  Iniciado 
+2021-02-22 21:58:00.453 INFO  --------- 
+2021-02-22 21:58:00.456 INFO  Entrando na Funcao: Acc_Login 
+2021-02-22 21:58:16.457 INFO  Sucesso em Logar 
+2021-02-22 21:58:16.461 INFO  -- 
+2021-02-22 21:58:16.462 INFO  Entrando na Funcao: Acc_Produtos 
+2021-02-22 21:58:18.287 INFO  Pagina: 1 de 1 
+2021-02-22 21:58:18.307 INFO  -- 
+2021-02-22 21:58:18.310 INFO  Entrando na Funcao: Acc_ProdutosDetalhes 
+2021-02-22 21:58:18.314 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 21:58:18.316 INFO  CodigoProduto: 6104391 
+2021-02-22 21:58:20.926 INFO  -- 
+2021-02-22 21:58:21.039 INFO  Entrando na Funcao: Acc_ProdutosFotos 
+2021-02-22 21:58:21.090 INFO  Obtendo Fotos dos Produtos 
+2021-02-22 21:58:21.140 INFO  CodigoProduto: 6104391 
+2021-02-22 21:58:21.218 INFO  Arquivo Final: G:\GitHub\Crawler_Xtechcommerce\lib/../tmp/6104391/2ab5fb73ab2c6e5a7ab853c7f3d85c71.jpeg 
+2021-02-22 21:58:21.242 INFO  Iniciado Download do Arquivo 
+2021-02-22 21:58:21.458 INFO  Falha no Each: 2ab5fb73ab2c6e5a7ab853c7f3d85c71.jpeg 
+2021-02-22 21:58:21.462 INFO  FileReader is not defined
+{}
+ReferenceError: FileReader is not defined
+    at G:\GitHub\Crawler_Xtechcommerce\lib\index.js:547:38
+    at process._tickCallback (internal/process/next_tick.js:68:7) 
+2021-02-22 21:58:21.488 INFO  -- 
+2021-02-22 21:58:21.489 INFO  Entrando na Funcao: Acc_SalvarDados 
+2021-02-22 21:58:21.494 INFO  -- 
+2021-02-22 21:58:21.497 INFO  Entrando na Funcao: Acc_SalvarDados 
+2021-02-22 21:58:21.502 INFO  -- 
+2021-02-22 21:58:21.504 INFO  Entrando na Funcao: Acc_SalvarDados 
+2021-02-22 22:01:50.227 INFO  Iniciado 
+2021-02-22 22:01:52.338 INFO  --------- 
+2021-02-22 22:01:52.342 INFO  Entrando na Funcao: Acc_Login 
+2021-02-22 22:02:08.844 INFO  Sucesso em Logar 
+2021-02-22 22:02:08.846 INFO  -- 
+2021-02-22 22:02:08.851 INFO  Entrando na Funcao: Acc_Categorias 
+2021-02-22 22:02:09.755 INFO  -- 
+2021-02-22 22:02:09.757 INFO  Entrando na Funcao: Acc_Produtos 
+2021-02-22 22:02:16.890 INFO  Pagina: 1 de 11 
+2021-02-22 22:02:16.911 INFO  Pagina: 2 de 11 
+2021-02-22 22:02:16.913 INFO  Index: 25 
+2021-02-22 22:02:18.643 INFO  Pagina: 3 de 11 
+2021-02-22 22:02:18.644 INFO  Index: 50 
+2021-02-22 22:02:25.360 INFO  Pagina: 4 de 11 
+2021-02-22 22:02:25.361 INFO  Index: 75 
+2021-02-22 22:02:31.690 INFO  Pagina: 5 de 11 
+2021-02-22 22:02:31.691 INFO  Index: 100 
+2021-02-22 22:02:33.601 INFO  Pagina: 6 de 11 
+2021-02-22 22:02:33.604 INFO  Index: 125 
+2021-02-22 22:02:34.561 INFO  Pagina: 7 de 11 
+2021-02-22 22:02:34.562 INFO  Index: 150 
+2021-02-22 22:02:40.959 INFO  Pagina: 8 de 11 
+2021-02-22 22:02:40.962 INFO  Index: 175 
+2021-02-22 22:02:42.336 INFO  Pagina: 9 de 11 
+2021-02-22 22:02:42.341 INFO  Index: 200 
+2021-02-22 22:02:49.064 INFO  Pagina: 10 de 11 
+2021-02-22 22:02:49.068 INFO  Index: 225 
+2021-02-22 22:02:50.034 INFO  Pagina: 11 de 11 
+2021-02-22 22:02:50.041 INFO  Index: 250 
+2021-02-22 22:02:51.736 INFO  -- 
+2021-02-22 22:02:51.738 INFO  Entrando na Funcao: Acc_ProdutosDetalhes 
+2021-02-22 22:02:51.743 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:02:51.745 INFO  CodigoProduto: 5356969 
+2021-02-22 22:02:53.655 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:02:53.660 INFO  CodigoProduto: 5367260 
+2021-02-22 22:02:55.256 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:02:55.257 INFO  CodigoProduto: 5509176 
+2021-02-22 22:02:57.266 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:02:57.267 INFO  CodigoProduto: 5534995 
+2021-02-22 22:02:59.004 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:02:59.008 INFO  CodigoProduto: 5611624 
+2021-02-22 22:03:01.065 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:03:01.069 INFO  CodigoProduto: 5615647 
+2021-02-22 22:03:07.376 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:03:07.377 INFO  CodigoProduto: 5641822 
+2021-02-22 22:03:09.495 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:03:09.500 INFO  CodigoProduto: 5717299 
+2021-02-22 22:03:11.332 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:03:11.333 INFO  CodigoProduto: 5750703 
+2021-02-22 22:03:13.453 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:03:13.457 INFO  CodigoProduto: 5750716 
+2021-02-22 22:03:15.171 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:03:15.175 INFO  CodigoProduto: 5821071 
+2021-02-22 22:03:17.193 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:03:17.197 INFO  CodigoProduto: 5821362 
+2021-02-22 22:03:18.899 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:03:18.902 INFO  CodigoProduto: 5830463 
+2021-02-22 22:03:20.366 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:03:20.371 INFO  CodigoProduto: 5846422 
+2021-02-22 22:03:22.132 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:03:22.136 INFO  CodigoProduto: 5853149 
+2021-02-22 22:03:23.679 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:03:23.681 INFO  CodigoProduto: 5853170 
+2021-02-22 22:03:25.349 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:03:25.351 INFO  CodigoProduto: 5853177 
+2021-02-22 22:03:26.820 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:03:26.822 INFO  CodigoProduto: 5864092 
+2021-02-22 22:03:33.555 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:03:33.557 INFO  CodigoProduto: 5875079 
+2021-02-22 22:03:35.138 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:03:35.141 INFO  CodigoProduto: 5883124 
+2021-02-22 22:03:37.206 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:03:37.211 INFO  CodigoProduto: 5884572 
+2021-02-22 22:03:38.682 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:03:38.686 INFO  CodigoProduto: 5889539 
+2021-02-22 22:03:40.525 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:03:40.527 INFO  CodigoProduto: 5890147 
+2021-02-22 22:03:42.127 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:03:42.130 INFO  CodigoProduto: 5896073 
+2021-02-22 22:03:43.774 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:03:43.778 INFO  CodigoProduto: 5905674 
+2021-02-22 22:03:50.096 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:03:50.111 INFO  CodigoProduto: 5916846 
+2021-02-22 22:03:52.262 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:03:52.263 INFO  CodigoProduto: 5917249 
+2021-02-22 22:03:54.319 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:03:54.323 INFO  CodigoProduto: 5921263 
+2021-02-22 22:03:55.858 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:03:55.859 INFO  CodigoProduto: 5921265 
+2021-02-22 22:03:58.111 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:03:58.113 INFO  CodigoProduto: 5921271 
+2021-02-22 22:04:00.158 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:04:00.161 INFO  CodigoProduto: 5930770 
+2021-02-22 22:04:01.882 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:04:01.883 INFO  CodigoProduto: 5934174 
+2021-02-22 22:04:03.360 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:04:03.364 INFO  CodigoProduto: 5971155 
+2021-02-22 22:04:05.241 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:04:05.244 INFO  CodigoProduto: 5986716 
+2021-02-22 22:04:06.930 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:04:06.933 INFO  CodigoProduto: 5989034 
+2021-02-22 22:04:08.787 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:04:08.790 INFO  CodigoProduto: 6000346 
+2021-02-22 22:04:10.425 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:04:10.429 INFO  CodigoProduto: 6002901 
+2021-02-22 22:04:17.119 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:04:17.122 INFO  CodigoProduto: 6007469 
+2021-02-22 22:04:18.718 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:04:18.719 INFO  CodigoProduto: 6016973 
+2021-02-22 22:04:20.218 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:04:20.222 INFO  CodigoProduto: 6016975 
+2021-02-22 22:04:21.735 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:04:21.736 INFO  CodigoProduto: 6016976 
+2021-02-22 22:04:23.692 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:04:23.694 INFO  CodigoProduto: 6018475 
+2021-02-22 22:04:25.664 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:04:25.669 INFO  CodigoProduto: 6018548 
+2021-02-22 22:04:27.215 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:04:27.217 INFO  CodigoProduto: 6020719 
+2021-02-22 22:04:28.925 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:04:28.927 INFO  CodigoProduto: 6020727 
+2021-02-22 22:04:30.400 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:04:30.401 INFO  CodigoProduto: 6020753 
+2021-02-22 22:04:36.725 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:04:36.727 INFO  CodigoProduto: 6020759 
+2021-02-22 22:04:38.324 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:04:38.328 INFO  CodigoProduto: 6037717 
+2021-02-22 22:04:39.857 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:04:39.859 INFO  CodigoProduto: 6055215 
+2021-02-22 22:04:41.332 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:04:41.337 INFO  CodigoProduto: 6055220 
+2021-02-22 22:04:43.026 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:04:43.030 INFO  CodigoProduto: 6055398 
+2021-02-22 22:04:44.406 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:04:44.407 INFO  CodigoProduto: 6055438 
+2021-02-22 22:04:45.946 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:04:45.949 INFO  CodigoProduto: 6063437 
+2021-02-22 22:04:47.531 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:04:47.533 INFO  CodigoProduto: 6063442 
+2021-02-22 22:04:49.454 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:04:49.457 INFO  CodigoProduto: 6063444 
+2021-02-22 22:04:55.785 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:04:55.786 INFO  CodigoProduto: 6064397 
+2021-02-22 22:04:57.363 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:04:57.364 INFO  CodigoProduto: 6064402 
+2021-02-22 22:04:58.753 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:04:58.757 INFO  CodigoProduto: 6064415 
+2021-02-22 22:05:00.422 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:05:00.426 INFO  CodigoProduto: 6064417 
+2021-02-22 22:05:02.531 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:05:02.534 INFO  CodigoProduto: 6064420 
+2021-02-22 22:05:05.679 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:05:05.683 INFO  CodigoProduto: 6064425 
+2021-02-22 22:05:07.518 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:05:07.522 INFO  CodigoProduto: 6064426 
+2021-02-22 22:05:09.191 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:05:09.198 INFO  CodigoProduto: 6064428 
+2021-02-22 22:05:11.618 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:05:11.622 INFO  CodigoProduto: 6064430 
+2021-02-22 22:05:13.232 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:05:13.235 INFO  CodigoProduto: 6064432 
+2021-02-22 22:05:14.903 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:05:14.903 INFO  CodigoProduto: 6066397 
+2021-02-22 22:05:17.155 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:05:17.159 INFO  CodigoProduto: 6066399 
+2021-02-22 22:05:19.236 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:05:19.250 INFO  CodigoProduto: 6066400 
+2021-02-22 22:05:21.333 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:05:21.333 INFO  CodigoProduto: 6067119 
+2021-02-22 22:05:22.980 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:05:22.984 INFO  CodigoProduto: 6067123 
+2021-02-22 22:05:24.667 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:05:24.673 INFO  CodigoProduto: 6068337 
+2021-02-22 22:05:26.366 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:05:26.370 INFO  CodigoProduto: 6068339 
+2021-02-22 22:05:27.990 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:05:27.994 INFO  CodigoProduto: 6068342 
+2021-02-22 22:05:29.682 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:05:29.684 INFO  CodigoProduto: 6068347 
+2021-02-22 22:05:31.281 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:05:31.284 INFO  CodigoProduto: 6073044 
+2021-02-22 22:05:33.449 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:05:33.455 INFO  CodigoProduto: 6073440 
+2021-02-22 22:05:35.168 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:05:35.171 INFO  CodigoProduto: 6077219 
+2021-02-22 22:05:36.586 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:05:36.587 INFO  CodigoProduto: 6077228 
+2021-02-22 22:05:43.244 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:05:43.246 INFO  CodigoProduto: 6077829 
+2021-02-22 22:05:44.861 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:05:44.864 INFO  CodigoProduto: 6077830 
+2021-02-22 22:05:51.867 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:05:51.871 INFO  CodigoProduto: 6077831 
+2021-02-22 22:05:53.526 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:05:53.528 INFO  CodigoProduto: 6077832 
+2021-02-22 22:06:00.328 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:06:00.331 INFO  CodigoProduto: 6078669 
+2021-02-22 22:06:06.940 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:06:06.942 INFO  CodigoProduto: 6078670 
+2021-02-22 22:06:13.398 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:06:13.402 INFO  CodigoProduto: 6078675 
+2021-02-22 22:06:15.151 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:06:15.154 INFO  CodigoProduto: 6078677 
+2021-02-22 22:06:17.116 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:06:17.117 INFO  CodigoProduto: 6078680 
+2021-02-22 22:06:18.722 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:06:18.726 INFO  CodigoProduto: 6079671 
+2021-02-22 22:06:20.260 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:06:20.263 INFO  CodigoProduto: 6079677 
+2021-02-22 22:06:22.393 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:06:22.395 INFO  CodigoProduto: 6088539 
+2021-02-22 22:06:23.916 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:06:23.919 INFO  CodigoProduto: 6088599 
+2021-02-22 22:06:25.631 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:06:25.632 INFO  CodigoProduto: 6088602 
+2021-02-22 22:06:27.415 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:06:27.418 INFO  CodigoProduto: 6088606 
+2021-02-22 22:06:29.131 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:06:29.133 INFO  CodigoProduto: 6088607 
+2021-02-22 22:06:31.453 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:06:31.455 INFO  CodigoProduto: 6088610 
+2021-02-22 22:06:33.026 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:06:33.030 INFO  CodigoProduto: 6088611 
+2021-02-22 22:06:39.571 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:06:39.574 INFO  CodigoProduto: 6089860 
+2021-02-22 22:06:41.447 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:06:41.450 INFO  CodigoProduto: 6089886 
+2021-02-22 22:06:43.170 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:06:43.176 INFO  CodigoProduto: 6091281 
+2021-02-22 22:06:44.782 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:06:44.784 INFO  CodigoProduto: 6091286 
+2021-02-22 22:06:46.531 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:06:46.536 INFO  CodigoProduto: 6093409 
+2021-02-22 22:06:48.082 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:06:48.083 INFO  CodigoProduto: 6093412 
+2021-02-22 22:06:49.870 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:06:49.873 INFO  CodigoProduto: 6094107 
+2021-02-22 22:06:51.356 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:06:51.359 INFO  CodigoProduto: 6094899 
+2021-02-22 22:06:52.972 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:06:52.974 INFO  CodigoProduto: 6094901 
+2021-02-22 22:06:54.944 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:06:54.945 INFO  CodigoProduto: 6094905 
+2021-02-22 22:06:56.390 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:06:56.394 INFO  CodigoProduto: 6094907 
+2021-02-22 22:06:58.083 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:06:58.086 INFO  CodigoProduto: 6094908 
+2021-02-22 22:06:59.920 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:06:59.924 INFO  CodigoProduto: 6094909 
+2021-02-22 22:07:01.539 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:07:01.545 INFO  CodigoProduto: 6097361 
+2021-02-22 22:07:03.211 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:07:03.215 INFO  CodigoProduto: 6097369 
+2021-02-22 22:07:04.858 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:07:04.863 INFO  CodigoProduto: 6099832 
+2021-02-22 22:07:07.352 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:07:07.354 INFO  CodigoProduto: 6099833 
+2021-02-22 22:07:08.947 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:07:08.948 INFO  CodigoProduto: 6099835 
+2021-02-22 22:07:10.518 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:07:10.523 INFO  CodigoProduto: 6101175 
+2021-02-22 22:07:12.233 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:07:12.236 INFO  CodigoProduto: 6101176 
+2021-02-22 22:07:13.611 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:07:13.612 INFO  CodigoProduto: 6101945 
+2021-02-22 22:07:15.262 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:07:15.266 INFO  CodigoProduto: 6101947 
+2021-02-22 22:07:16.883 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:07:16.885 INFO  CodigoProduto: 6101948 
+2021-02-22 22:07:18.911 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:07:18.915 INFO  CodigoProduto: 6101952 
+2021-02-22 22:07:20.478 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:07:20.482 INFO  CodigoProduto: 6101953 
+2021-02-22 22:07:22.070 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:07:22.075 INFO  CodigoProduto: 6101954 
+2021-02-22 22:07:23.724 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:07:23.725 INFO  CodigoProduto: 6102193 
+2021-02-22 22:07:25.353 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:07:25.357 INFO  CodigoProduto: 6102200 
+2021-02-22 22:07:27.095 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:07:27.099 INFO  CodigoProduto: 6104391 
+2021-02-22 22:07:28.621 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:07:28.623 INFO  CodigoProduto: 6104392 
+2021-02-22 22:07:30.289 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:07:30.290 INFO  CodigoProduto: 6104442 
+2021-02-22 22:07:31.863 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:07:31.867 INFO  CodigoProduto: 6105747 
+2021-02-22 22:07:33.558 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:07:33.560 INFO  CodigoProduto: 6105748 
+2021-02-22 22:07:35.067 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:07:35.074 INFO  CodigoProduto: 6105750 
+2021-02-22 22:07:36.614 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:07:36.616 INFO  CodigoProduto: 6105751 
+2021-02-22 22:07:38.284 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:07:38.287 INFO  CodigoProduto: 6106042 
+2021-02-22 22:07:39.720 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:07:39.721 INFO  CodigoProduto: 6107275 
+2021-02-22 22:07:46.307 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:07:46.313 INFO  CodigoProduto: 6107598 
+2021-02-22 22:07:53.269 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:07:53.271 INFO  CodigoProduto: 6107600 
+2021-02-22 22:07:54.819 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:07:54.825 INFO  CodigoProduto: 6107604 
+2021-02-22 22:08:01.429 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:08:01.431 INFO  CodigoProduto: 6107609 
+2021-02-22 22:08:03.145 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:08:03.149 INFO  CodigoProduto: 6107628 
+2021-02-22 22:08:04.743 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:08:04.745 INFO  CodigoProduto: 6107630 
+2021-02-22 22:08:06.344 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:08:06.349 INFO  CodigoProduto: 6107631 
+2021-02-22 22:08:08.624 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:08:08.627 INFO  CodigoProduto: 6107633 
+2021-02-22 22:08:15.134 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:08:15.137 INFO  CodigoProduto: 6107635 
+2021-02-22 22:08:16.910 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:08:16.914 INFO  CodigoProduto: 6107636 
+2021-02-22 22:08:18.455 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:08:18.461 INFO  CodigoProduto: 6107638 
+2021-02-22 22:08:19.995 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:08:19.999 INFO  CodigoProduto: 6107706 
+2021-02-22 22:08:21.464 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:08:21.468 INFO  CodigoProduto: 6107708 
+2021-02-22 22:08:28.231 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:08:28.233 INFO  CodigoProduto: 6107715 
+2021-02-22 22:08:29.716 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:08:29.722 INFO  CodigoProduto: 6107727 
+2021-02-22 22:08:31.586 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:08:31.590 INFO  CodigoProduto: 6108031 
+2021-02-22 22:08:38.232 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:08:38.233 INFO  CodigoProduto: 6108041 
+2021-02-22 22:08:39.766 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:08:39.766 INFO  CodigoProduto: 6109755 
+2021-02-22 22:08:41.338 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:08:41.344 INFO  CodigoProduto: 6110343 
+2021-02-22 22:08:42.865 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:08:42.868 INFO  CodigoProduto: 6111686 
+2021-02-22 22:08:44.481 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:08:44.484 INFO  CodigoProduto: 6111691 
+2021-02-22 22:08:45.990 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:08:45.993 INFO  CodigoProduto: 6113013 
+2021-02-22 22:08:47.690 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:08:47.694 INFO  CodigoProduto: 6113651 
+2021-02-22 22:08:54.569 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:08:54.571 INFO  CodigoProduto: 6115073 
+2021-02-22 22:08:56.492 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:08:56.493 INFO  CodigoProduto: 6115629 
+2021-02-22 22:08:58.706 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:08:58.712 INFO  CodigoProduto: 6116356 
+2021-02-22 22:09:00.490 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:09:00.494 INFO  CodigoProduto: 6116574 
+2021-02-22 22:09:02.290 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:09:02.294 INFO  CodigoProduto: 6116575 
+2021-02-22 22:09:04.250 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:09:04.251 INFO  CodigoProduto: 6121584 
+2021-02-22 22:09:10.655 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:09:10.657 INFO  CodigoProduto: 6123509 
+2021-02-22 22:09:17.356 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:09:17.359 INFO  CodigoProduto: 6125160 
+2021-02-22 22:09:18.992 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:09:19.000 INFO  CodigoProduto: 6128228 
+2021-02-22 22:09:25.626 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:09:25.628 INFO  CodigoProduto: 6128229 
+2021-02-22 22:09:32.070 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:09:32.072 INFO  CodigoProduto: 6128231 
+2021-02-22 22:09:34.542 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:09:34.543 INFO  CodigoProduto: 6128748 
+2021-02-22 22:09:41.541 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:09:41.545 INFO  CodigoProduto: 6128749 
+2021-02-22 22:09:43.134 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:09:43.139 INFO  CodigoProduto: 6128752 
+2021-02-22 22:09:45.112 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:09:45.116 INFO  CodigoProduto: 6128753 
+2021-02-22 22:09:46.865 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:09:46.866 INFO  CodigoProduto: 6129491 
+2021-02-22 22:09:49.218 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:09:49.220 INFO  CodigoProduto: 6129518 
+2021-02-22 22:09:51.264 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:09:51.266 INFO  CodigoProduto: 6129649 
+2021-02-22 22:09:52.788 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:09:52.792 INFO  CodigoProduto: 6129652 
+2021-02-22 22:09:54.539 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:09:54.542 INFO  CodigoProduto: 6129741 
+2021-02-22 22:09:56.259 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:09:56.261 INFO  CodigoProduto: 6129743 
+2021-02-22 22:09:57.740 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:09:57.744 INFO  CodigoProduto: 6129747 
+2021-02-22 22:09:59.431 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:09:59.435 INFO  CodigoProduto: 6129748 
+2021-02-22 22:10:05.887 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:10:05.890 INFO  CodigoProduto: 6130581 
+2021-02-22 22:10:07.587 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:10:07.591 INFO  CodigoProduto: 6131816 
+2021-02-22 22:10:09.238 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:10:09.242 INFO  CodigoProduto: 6131818 
+2021-02-22 22:10:11.182 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:10:11.184 INFO  CodigoProduto: 6131820 
+2021-02-22 22:10:13.178 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:10:13.182 INFO  CodigoProduto: 6131822 
+2021-02-22 22:10:16.178 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:10:16.186 INFO  CodigoProduto: 6131830 
+2021-02-22 22:10:17.800 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:10:17.801 INFO  CodigoProduto: 6131834 
+2021-02-22 22:10:19.917 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:10:19.922 INFO  CodigoProduto: 6131842 
+2021-02-22 22:10:21.488 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:10:21.490 INFO  CodigoProduto: 6131857 
+2021-02-22 22:10:22.987 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:10:22.997 INFO  CodigoProduto: 6131862 
+2021-02-22 22:10:24.499 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:10:24.502 INFO  CodigoProduto: 6131863 
+2021-02-22 22:10:26.209 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:10:26.212 INFO  CodigoProduto: 6132906 
+2021-02-22 22:10:32.689 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:10:32.691 INFO  CodigoProduto: 6132908 
+2021-02-22 22:10:34.369 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:10:34.372 INFO  CodigoProduto: 6132911 
+2021-02-22 22:10:35.756 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:10:35.761 INFO  CodigoProduto: 6132913 
+2021-02-22 22:10:37.384 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:10:37.388 INFO  CodigoProduto: 6133099 
+2021-02-22 22:10:38.955 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:10:38.961 INFO  CodigoProduto: 6133237 
+2021-02-22 22:10:40.859 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:10:40.861 INFO  CodigoProduto: 6133240 
+2021-02-22 22:10:42.432 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:10:42.433 INFO  CodigoProduto: 6133256 
+2021-02-22 22:10:44.003 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:10:44.006 INFO  CodigoProduto: 6136408 
+2021-02-22 22:10:50.833 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:10:50.836 INFO  CodigoProduto: 6136409 
+2021-02-22 22:10:52.528 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:10:52.531 INFO  CodigoProduto: 6138618 
+2021-02-22 22:10:54.549 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:10:54.552 INFO  CodigoProduto: 6138622 
+2021-02-22 22:10:56.371 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:10:56.374 INFO  CodigoProduto: 6138623 
+2021-02-22 22:11:02.926 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:11:02.929 INFO  CodigoProduto: 6140672 
+2021-02-22 22:11:04.548 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:11:04.554 INFO  CodigoProduto: 6140679 
+2021-02-22 22:11:06.147 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:11:06.150 INFO  CodigoProduto: 6140680 
+2021-02-22 22:11:08.107 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:11:08.109 INFO  CodigoProduto: 6142808 
+2021-02-22 22:11:10.038 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:11:10.040 INFO  CodigoProduto: 6142810 
+2021-02-22 22:11:11.632 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:11:11.636 INFO  CodigoProduto: 6142811 
+2021-02-22 22:11:13.186 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:11:13.190 INFO  CodigoProduto: 6143436 
+2021-02-22 22:11:14.877 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:11:14.879 INFO  CodigoProduto: 6143619 
+2021-02-22 22:11:16.949 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:11:16.950 INFO  CodigoProduto: 6143620 
+2021-02-22 22:11:23.334 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:11:23.339 INFO  CodigoProduto: 6143622 
+2021-02-22 22:11:25.113 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:11:25.115 INFO  CodigoProduto: 6143623 
+2021-02-22 22:11:26.507 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:11:26.511 INFO  CodigoProduto: 6144244 
+2021-02-22 22:11:28.694 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:11:28.695 INFO  CodigoProduto: 6144354 
+2021-02-22 22:11:30.383 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:11:30.387 INFO  CodigoProduto: 6144355 
+2021-02-22 22:11:32.091 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:11:32.093 INFO  CodigoProduto: 6144366 
+2021-02-22 22:11:33.673 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:11:33.677 INFO  CodigoProduto: 6144482 
+2021-02-22 22:11:35.329 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:11:35.334 INFO  CodigoProduto: 6144566 
+2021-02-22 22:11:36.846 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:11:36.851 INFO  CodigoProduto: 6144567 
+2021-02-22 22:11:38.532 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:11:38.539 INFO  CodigoProduto: 6144569 
+2021-02-22 22:11:39.976 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:11:39.980 INFO  CodigoProduto: 6144570 
+2021-02-22 22:11:41.497 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:11:41.501 INFO  CodigoProduto: 6147992 
+2021-02-22 22:11:48.054 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:11:48.056 INFO  CodigoProduto: 6147993 
+2021-02-22 22:11:51.042 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:11:51.046 INFO  CodigoProduto: 6148010 
+2021-02-22 22:11:52.763 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:11:52.767 INFO  CodigoProduto: 6148041 
+2021-02-22 22:11:54.346 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:11:54.350 INFO  CodigoProduto: 6148055 
+2021-02-22 22:11:56.277 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:11:56.280 INFO  CodigoProduto: 6148056 
+2021-02-22 22:11:57.733 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:11:57.737 INFO  CodigoProduto: 6148057 
+2021-02-22 22:11:59.513 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:11:59.516 INFO  CodigoProduto: 6148959 
+2021-02-22 22:12:01.238 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:12:01.243 INFO  CodigoProduto: 6148960 
+2021-02-22 22:12:07.982 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:12:07.984 INFO  CodigoProduto: 6149844 
+2021-02-22 22:12:09.526 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:12:09.530 INFO  CodigoProduto: 6149846 
+2021-02-22 22:12:11.180 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:12:11.183 INFO  CodigoProduto: 6150696 
+2021-02-22 22:12:12.576 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:12:12.577 INFO  CodigoProduto: 6150699 
+2021-02-22 22:12:14.263 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:12:14.266 INFO  CodigoProduto: 6150700 
+2021-02-22 22:12:15.767 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:12:15.773 INFO  CodigoProduto: 6150702 
+2021-02-22 22:12:17.626 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:12:17.627 INFO  CodigoProduto: 6150780 
+2021-02-22 22:12:19.381 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:12:19.382 INFO  CodigoProduto: 6150782 
+2021-02-22 22:12:20.938 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:12:20.941 INFO  CodigoProduto: 6151547 
+2021-02-22 22:12:22.540 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:12:22.543 INFO  CodigoProduto: 6153265 
+2021-02-22 22:12:24.179 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:12:24.185 INFO  CodigoProduto: 6153682 
+2021-02-22 22:12:25.757 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:12:25.761 INFO  CodigoProduto: 6153695 
+2021-02-22 22:12:27.331 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:12:27.337 INFO  CodigoProduto: 6154122 
+2021-02-22 22:12:29.290 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:12:29.294 INFO  CodigoProduto: 6154277 
+2021-02-22 22:12:30.823 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:12:30.824 INFO  CodigoProduto: 6155430 
+2021-02-22 22:12:32.526 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:12:32.526 INFO  CodigoProduto: 6156394 
+2021-02-22 22:12:33.932 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:12:33.935 INFO  CodigoProduto: 6158423 
+2021-02-22 22:12:35.520 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:12:35.525 INFO  CodigoProduto: 6158432 
+2021-02-22 22:12:42.029 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:12:42.031 INFO  CodigoProduto: 6158434 
+2021-02-22 22:12:43.668 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:12:43.675 INFO  CodigoProduto: 6158438 
+2021-02-22 22:12:45.090 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:12:45.094 INFO  CodigoProduto: 6158440 
+2021-02-22 22:12:46.716 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:12:46.719 INFO  CodigoProduto: 6158441 
+2021-02-22 22:12:48.906 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:12:48.910 INFO  CodigoProduto: 6158442 
+2021-02-22 22:12:50.449 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:12:50.453 INFO  CodigoProduto: 6158444 
+2021-02-22 22:12:52.249 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:12:52.252 INFO  CodigoProduto: 6158445 
+2021-02-22 22:12:53.762 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:12:53.763 INFO  CodigoProduto: 6158446 
+2021-02-22 22:12:55.267 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:12:55.270 INFO  CodigoProduto: 6158447 
+2021-02-22 22:12:56.774 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:12:56.778 INFO  CodigoProduto: 6158448 
+2021-02-22 22:12:58.341 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:12:58.345 INFO  CodigoProduto: 6158449 
+2021-02-22 22:13:00.307 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:13:00.311 INFO  CodigoProduto: 6158451 
+2021-02-22 22:13:01.679 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:13:01.683 INFO  CodigoProduto: 6158454 
+2021-02-22 22:13:03.278 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:13:03.283 INFO  CodigoProduto: 6158459 
+2021-02-22 22:13:04.866 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:13:04.870 INFO  CodigoProduto: 6158460 
+2021-02-22 22:13:06.409 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:13:06.412 INFO  CodigoProduto: 6159457 
+2021-02-22 22:13:13.103 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:13:13.105 INFO  CodigoProduto: 6159516 
+2021-02-22 22:13:14.576 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:13:14.580 INFO  CodigoProduto: 6160362 
+2021-02-22 22:13:21.233 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:13:21.235 INFO  CodigoProduto: 6161612 
+2021-02-22 22:13:23.429 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:13:23.434 INFO  CodigoProduto: 6161614 
+2021-02-22 22:13:28.186 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:13:28.190 INFO  CodigoProduto: 6161615 
+2021-02-22 22:13:30.754 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:13:30.758 INFO  CodigoProduto: 6161669 
+2021-02-22 22:13:33.069 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:13:33.073 INFO  CodigoProduto: 6161673 
+2021-02-22 22:13:36.430 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:13:36.430 INFO  CodigoProduto: 6162120 
+2021-02-22 22:13:39.834 INFO  Obtendo Detalhes dos Produtos 
+2021-02-22 22:13:39.839 INFO  CodigoProduto: 6162122 
+2021-02-22 22:13:42.150 INFO  -- 
+2021-02-22 22:13:42.150 INFO  Entrando na Funcao: Acc_SalvarDados 
+2021-02-22 22:13:42.169 INFO  -- 
+2021-02-22 22:13:42.170 INFO  Entrando na Funcao: Acc_SalvarDados 
+2021-02-22 22:13:42.215 INFO  -- 
+2021-02-22 22:13:42.219 INFO  Entrando na Funcao: Acc_SalvarDados 

@@ -1,0 +1,27 @@
+{
+  "name": "Crawler_Xtechcommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paloma Macetko <cmacetko@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^3.2.0",
+    "asyncforeach": "^1.0.0-beta.13",
+    "blob-to-base64": "^1.0.2",
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.6.1",
+    "puppeteer": "^7.1.0",
+    "puppeteer-extra": "^3.1.17",
+    "puppeteer-extra-plugin-user-preferences": "^2.2.11",
+    "request": "^2.88.2",
+    "save-file": "^2.3.1",
+    "simple-node-logger": "^18.12.24"
+  }
+}
